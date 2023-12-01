@@ -12,7 +12,7 @@ public class While2_2 {
         System.out.println("i=" + i + " sum=" + sum);
 
         i++;
-        sum = sum + i; //sum(3) + i(3) -> sum(6)
+        sum = sum + i;
         System.out.println("i=" + i + " sum=" + sum);
     }
 }
